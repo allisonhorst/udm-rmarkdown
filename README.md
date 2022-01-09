@@ -1,8 +1,6 @@
 # R Markdown Workshop - UDM 2022
 
-Instructor: Allison Horst
-
-Assistant Teaching Professor, UC Santa Barbara
+Instructor: Allison Horst (Assistant Teaching Professor, UC Santa Barbara)
 
 Email: ahorst@ucsb.edu
 
